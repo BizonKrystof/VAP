@@ -1,0 +1,60 @@
+.inline-container, .inline-block-container, .block-container, .flex-container{
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+}
+
+.inline-div{
+    display: inline;
+    background-color: black;
+}
+
+.inline-block-div {
+    display: inline-block;
+    background-color: red;
+}
+
+.block-div {
+    display: block;
+    background-color: green;
+}
+
+.flex-div{
+    display: block;
+    background-color: blue;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.inline-div, .inline-block-div, .block-div, .flex-div{
+    width: 100px;
+    height: 100px;
+    text-indent: 20px;
+    text-align: center;
+    color-scheme: gray;
+    font-style: monospace;
+    font-size: 2rem;
+    transition: background-color 3s;
+    animation-name: SizeAnimation;
+    animation-duration: 2s;
+
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: inherit;
+}
+
+.inline-div:hover, .inline-block-div:hover, .block-div:hover, .flex-div:hover{
+    background-color: blueviolet;
+}
+
+
+@keyframes SizeAnimation {
+    0% {width: 100px;}
+    100% {width: 200px;}
+    0% {height: 100px;}
+    100% {height: 200px;}
+}
+
