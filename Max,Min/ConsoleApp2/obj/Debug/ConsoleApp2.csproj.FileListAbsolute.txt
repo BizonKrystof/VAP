@@ -1,6 +1,0 @@
-R:\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-R:\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-R:\C#\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-R:\C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
-R:\C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-R:\C#\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
