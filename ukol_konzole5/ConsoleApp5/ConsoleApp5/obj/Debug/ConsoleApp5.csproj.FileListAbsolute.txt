@@ -1,0 +1,6 @@
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+R:\VAP\konzole\ukol_konzole5\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
